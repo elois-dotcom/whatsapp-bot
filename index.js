@@ -18,9 +18,11 @@ app.post('/whatsapp',(req,res)=>{
     res.send(`
         <Response>
              
-            <Message>
-            We got your message!
-            Now forward your message to be analysed.
+<Message>
+*Linzi AI here*
+We got your message successfully.
+Now forward your suspicious message to be analysed.
+
             
             </Message>
         
