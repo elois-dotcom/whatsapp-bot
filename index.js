@@ -20,12 +20,8 @@ app.post('/whatsapp',(req,res)=>{
              
             <Message>
             We got your message!
-
-            Received from:
-            "${incomingMssg}"
-
-            We are working!
-
+            Now forward your message to be analysed.
+            
             </Message>
         
         </Response>
